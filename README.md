@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:700/1*1k72mg1_CZvLptX77zzKTg.png" alt="alt_text" width=100% height=100% >
-</div>
+</p>
 
 ### Olist E-Commerce Platform Analysis Overview
 This repository contains an Exploratory Data Analysis (EDA) and visualization project focusing on the Olist platform, a prominent Brazilian e-commerce platform connecting merchants with potential customers. The project aims to provide insights into the e-commerce landscape in Brazil, facilitating a better understanding of market dynamics and identifying potential areas for growth and optimization. 

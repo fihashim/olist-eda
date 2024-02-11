@@ -1,2 +1,3 @@
+.gitignore
 *.csv
 final_clean_eda.ipynb

@@ -3,11 +3,11 @@
 </p>
 
 ### Olist E-Commerce Platform Analysis Overview
-This repository contains an Exploratory Data Analysis (EDA) and visualization project focusing on the Olist platform, a prominent Brazilian e-commerce platform connecting merchants with potential customers. The project aims to provide insights into the e-commerce landscape in Brazil, facilitating a better understanding of market dynamics and identifying potential areas for growth and optimization. 
-The EDA was done with the following: 
+This repository contains an Exploratory Data Analysis (EDA) and visualization project focusing on the Olist platform, a prominent Brazilian e-commerce platform connecting merchants with potential customers. The project aims to provide insights into the e-commerce landscape in Brazil, facilitating a better understanding of market dynamics and identifying potential areas for growth and optimization.
+The EDA was done with the following:
 - **Programming Language:** Python
-- **Data Analysis Tools:** Pandas, Seaborn, GeoPandas
-  
+- **Data Analysis Tools:** Pandas, Seaborn, Plotly, Matplotlib
+
 The dataset used in this project was made publicly available on Kaggle allowing data analysts to delve into the intricacies of the Brazilian e-commerce ecosystem. Through comprehensive analysis, this project endeavors to uncover valuable insights that can inform strategic decisions and enhance operational efficiency. Olist is a leading e-commerce platform in Brazil, facilitating transactions between merchants and consumers across various product categories. By analyzing Olist's dataset, this project seeks to contribute to a deeper understanding of the Brazilian e-commerce market and drive actionable insights for stakeholders.
 
 ## Objectives
@@ -48,7 +48,7 @@ This dataset comprises nine tables essential for understanding the Olist e-comme
 - olist_products
 - olist_sellers
 - product_category_name_translations
-  
+
 These tables encompass a comprehensive array of information pertaining to each order, encompassing vital details such as order dates, product specifics, payment and shipping particulars, customer and seller identifiers, customer feedback, seller listings on Olist, as well as insightful data on customer behaviors and demographics.
 
 For detailed descriptions of the tables' contents, please refer to the data dictionary [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce "Olist")
